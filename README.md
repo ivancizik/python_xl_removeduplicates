@@ -6,4 +6,6 @@ There a 2 scripts:
 * xl_removeduplicates_s.py = remove duplicated in specified single column  
 * xl_removeduplicates_m.py = remove duplicated in specified multiple column  
 
-Script is using openpyxl.
+Script is using openpyxl.  
+
+TODO: merge in to one script, add UI
