@@ -3,7 +3,9 @@
 Sample Python script that mimics Remove Duplicates function in MS Excel 
 
 Usage:  
-~ python xl_removeduplicates.py sample_m.xlsx A,B -h
+~~~~
+python xl_removeduplicates.py sample_m.xlsx A,B -h
+~~~~
 
 Script is using openpyxl and sys 
 
