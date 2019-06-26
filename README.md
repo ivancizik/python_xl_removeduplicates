@@ -1,11 +1,12 @@
 # Remove duplicates in excel sheet  
 
-Sample Python script that removes duplicates in specified column(s)  
+Sample Python script that mimics Remove Duplicates function in MS Excel 
 
-There a 2 scripts:  
-* xl_removeduplicates_s.py = remove duplicated in specified single column  
-* xl_removeduplicates_m.py = remove duplicated in specified multiple column  
+Usage:  
+~ python xl_removeduplicates.py sample_m.xlsx A,B -h
 
-Script is using openpyxl.  
+Script is using openpyxl and sys 
 
-TODO: merge in to one script, add UI
+![Alt text](/screenshot2.PNG?raw=true)  
+
+![Alt text](/screenshot.PNG?raw=true)  
