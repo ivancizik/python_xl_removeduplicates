@@ -4,13 +4,18 @@ Sample Python script that mimics Remove Duplicates function in MS Excel
 
 Usage:  
 ~~~~
+python xl_removeduplicates.py [file_name] [column(s)] [-h if data has headers]
+
 python xl_removeduplicates.py sample_m.xlsx A,B -h
 ~~~~
 
-Script is using openpyxl and sys 
+The script is using openpyxl and sys 
 
 ![Alt text](/screenshot2.PNG?raw=true)  
 
 ![Alt text](/screenshot.PNG?raw=true)  
+<<<<<<< HEAD
 
 tes
+=======
+>>>>>>> b71388776e480ecb5fd66626dd649c07bfc3c3d0
