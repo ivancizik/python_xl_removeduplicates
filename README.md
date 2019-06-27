@@ -14,8 +14,3 @@ The script is using openpyxl and sys
 ![Alt text](/screenshot2.PNG?raw=true)  
 
 ![Alt text](/screenshot.PNG?raw=true)  
-<<<<<<< HEAD
-
-tes
-=======
->>>>>>> b71388776e480ecb5fd66626dd649c07bfc3c3d0
