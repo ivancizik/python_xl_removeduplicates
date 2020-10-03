@@ -1,4 +1,4 @@
-# https://github.com/love2spooge/python_xl_removeduplicates
+# https://github.com/ivancizik/python_xl_removeduplicates
 
 # /// import + other system stuff
 import sys
